@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class PointlessRPG {
     public static void main(String[] args) throws IOException {
         String charName = ""; //Stating all the variables used in the program.
-        int charAtk = 0;	//Characters Variables
+        int charAtk = 0;	//Characters Variable
         int charWeapon = 0;
         int charStam = 0;
         int charLvl = 0;

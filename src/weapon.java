@@ -1,4 +1,5 @@
 public class weapon {
+
     public static final int dagger = ((int)((Math.random()*4)+1));
 
     public static final int shortSword = ((int)((Math.random()*4)+1));
